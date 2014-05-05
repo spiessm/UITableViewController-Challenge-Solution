@@ -1,5 +1,5 @@
 //
-//  MSViewController.h
+//  MSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Martin Spiess on 5.5.14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MSViewController : UIViewController
+@interface MSTableViewController : UITableViewController
 
 @end
