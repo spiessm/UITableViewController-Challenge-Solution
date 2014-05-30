@@ -77,7 +77,7 @@
             cell.textLabel.text = @"I am in section 0";
         }
         else if (indexPath.section == 1){
-            cell.textLabel.text = @"next section";
+            cell.textLabel.text = @"another section";
         }
         else {
             cell.textLabel.text = [NSString stringWithFormat:@"cell %i", indexPath.row];
